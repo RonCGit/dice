@@ -1,2 +1,2 @@
 # dice
-dicegame
+dicegame 2
